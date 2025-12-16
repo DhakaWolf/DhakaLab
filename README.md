@@ -1,2 +1,2 @@
 # DhakaLab
-## Set of scripts used for my lab environment. 
+Set of scripts used for my home environment
