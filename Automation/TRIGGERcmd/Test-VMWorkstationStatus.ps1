@@ -1,5 +1,5 @@
 try {
-    $objProc = Get-Process -Name 'vmware.exe'
+    $objProc = Get-Process -Name 'vmware'
     If ($objProc){
         If ($objProc.Responding -eq $true){
             Write-Output 'Workstation is currently running.'
